@@ -169,7 +169,7 @@ destination:
   port: 12345   # NOTE: change to your Papertrail port
   protocol: tls
 ```
-type ESC and ":wq" to save changes and exit.
+Press ESC button and then type ":wq" to save changes and exit.
 
 * Start a new aggregate
 
@@ -202,7 +202,7 @@ Group=root
 WantedBy=multi-user.target
 ```
 
-type ESC and ":wq" to save changes and exit.
+Press ESC button and then type ":wq" to save changes and exit.
 
 * enable the reboot service by using these two commands, one at a time.
 
